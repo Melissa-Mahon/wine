@@ -1,0 +1,22 @@
+{
+  "name": "wrestlemania",
+  "version": "1.0.0",
+  "description": "Messing about",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AverageZ/wrestlemania.git"
+  },
+  "author": "Alex Zajac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AverageZ/wrestlemania/issues"
+  },
+  "homepage": "https://github.com/AverageZ/wrestlemania#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.5"
+  }
+}
